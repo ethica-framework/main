@@ -1,1 +1,1 @@
-# Main landing page explaining what the framework is, why it exists, and how to get started quickly
+An adaptive resource library for systematic ethical AI development, providing interconnected tools, frameworks, workflows, and guidance that users can access through multiple entry points based on their specific needs and context.
