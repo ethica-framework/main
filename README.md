@@ -23,7 +23,7 @@ Does your challenge involve identifying bias in your system?
 → If YES, go to `Bias Debugging module`
 
 **Step 4:** Addressing Unfairness
-==Does your challenge involve fixing an existing fairness problem you’ve identified?==
+Does your challenge involve fixing an existing fairness problem you’ve identified?
 -	Are you trying to decide on a definition of fairness?
 -	Do you need some examples of fair versus unfair outcomes?
 -	Do you need to decide if the problem can be fixed by adding new rules? 
