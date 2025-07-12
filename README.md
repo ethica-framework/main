@@ -6,35 +6,35 @@ Does your challenge involve understanding HOW your AI system makes decisions?
 -	Are stakeholders asking, “How did the system decide this?”
 -	Do you struggle to explain why the model made specific predictions?
 -	Are you facing demands for algorithmic transparency?
-→ If YES, go to Model Decoding module
+→ If YES, go to `Model Decoding module`
 
 **Step 2:** Responsibility & Governance
 Does your challenge involve WHO is responsible for decisions or outcomes?
 -	Are you unclear about who’s accountable for the management of systems?
 -	Are you unclear who is responsible for systems should they fail?
 -	Are you confused about who has decision making authority?
-→ If YES, go to Accountability Mapping module
+→ If YES, go to `Accountability Mapping module`
 
 **Step 3:** Uncovering Hidden Problems
 Does your challenge involve identifying bias in your system?
 -	Are you unsure if bias is present and want to detect it?
 -	Do you suspect there may be bias but are unsure where to look or how to test it?
 -	Do you need to investigate potential discrimination in your model?
-→ If YES, go to Bias Debugging module
+→ If YES, go to `Bias Debugging module`
 
-**Step 4:** `Addressing Unfairness`
+**Step 4:** Addressing Unfairness
 Does your challenge involve fixing an existing fairness problem you’ve identified?
 -	Are you trying to decide on whether to focus on fairness at the group level or individual level?
 -	Do you know need to balance competing definitions of fairness?
 -	Do you need to make tradeoffs between fairness and mode performance? 
-→ If YES, go to Fairness Balancing module
+→ If YES, go to `Fairness Balancing module`
 
 **Step 5:** Data & Privacy
 Does your challenge involve HOW you collect, use, store, or protect personal information?
 -	Are you collecting personal or sensitive information?
 -	Do users lack control or access over their information?
 -	Are you facing challenges in compliance or regulatory challenges involving privacy
-→ If YES, go to Privacy Safeguarding module
+→ If YES, go to `Privacy Safeguarding module`
 
 **Step 6:** Still Unclear?
 If none of the above categories fit your concern:
