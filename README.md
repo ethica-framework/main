@@ -22,7 +22,7 @@ Does your challenge involve identifying bias in your system?
 -	Do you need to investigate potential discrimination in your model?
 → If YES, go to Bias Debugging module
 
-**Step 4:** Addressing Unfairness
+**Step 4:** `Addressing Unfairness`
 Does your challenge involve fixing an existing fairness problem you’ve identified?
 -	Are you trying to decide on whether to focus on fairness at the group level or individual level?
 -	Do you know need to balance competing definitions of fairness?
