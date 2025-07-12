@@ -41,4 +41,3 @@ If none of the above categories fit your concern:
 -	Review all skill modules to see what resonates
 -	Consider that you may have multiple ethical issues, and that multiple modules may apply
 -	Submit a request to create another ethical module that may be absent in the current directory
-<img width="468" height="636" alt="image" src="https://github.com/user-attachments/assets/f318c7a8-b006-4210-acc6-3732284ce86d" />
