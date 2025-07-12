@@ -1,3 +1,9 @@
+| Header 1 | Header 2 | Header 3 |
+|----------|----------|----------|
+| Row 1, Col 1 | Row 1, Col 2 | Row 1, Col 3 |
+| Row 2, Col 1 | Row 2, Col 2 | Row 2, Col 3 |
+| Row 3, Col 1 | Row 3, Col 2 | Row 3, Col 3 |
+
 **Are you unsure what kind of ethical challenge you’re facing? Do you have ethical concerns but can’t articulate them? Do you need help identifying the nature of your dilemma?**
 If you answered YES to any of these questions, work through this decision tree:
 
