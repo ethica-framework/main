@@ -41,3 +41,11 @@ If none of the above categories fit your concern:
 -	Review all skill modules to see what resonates
 -	Consider that you may have multiple ethical issues, and that multiple modules may apply
 -	Submit a request to create another ethical module that may be absent in the current directory
+
+-	{content: }
+-	markdown
+{content: }
+Language	Rank	Usage
+Python	1	High
+Java	2	Moderate
+JavaScript	3	High
