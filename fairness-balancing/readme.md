@@ -1,3 +1,4 @@
+**Fairness Balancing** </br> </br>
 This module develops your capacity to not only reason through fairness trade-offs systematically but to implement and sustain fair AI systems in practice. Fairness Balancing is the skill of identifying issues that may cause individual or systematic harm and steering decisions towards more fair outcomes. Unlike bias detection (which finds problems), fairness balancing helps you make defensible decisions about resolving those problems and translating those decisions into effective action. Below is a list of skills this module helps users build over time through repeated practice:
 
 1.	Develop an intuition for “fair” versus “unfair” outcomes.
