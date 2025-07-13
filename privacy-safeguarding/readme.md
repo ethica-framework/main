@@ -1,1 +1,6 @@
-
+**Privacy Safeguarding** </br> </br>
+This module develops your capacity to protect individual privacy while enabling legitimate AI system functionality. Privacy Safeguarding is the skill of implementing comprehensive privacy protection that goes beyond compliance checkboxes to respect individual autonomy and data rights genuinely. Unlike basic privacy compliance (which follows minimum legal requirements), privacy safeguarding helps you build AI systems that earn and maintain user trust through proactive privacy protection. Below is a list of skills this module helps users build over time through repeated practice:
+1. Identify privacy risks throughout AI system lifecycles - Recognize privacy threats in data collection, processing, storage, sharing, and inference.
+2. Apply privacy-by-design principles to AI development - Integrate privacy protection into system architecture rather than adding it as an afterthought.
+3. Choose appropriate privacy-preserving technologies - Select from differential privacy, federated learning, homomorphic encryption, and other techniques based on specific use cases.
+4. Balance privacy protection with system functionality - Find solutions that protect privacy while maintaining the utility of AI systems.
