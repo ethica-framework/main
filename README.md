@@ -1,5 +1,4 @@
-**Are you unsure what kind of ethical challenge you’re facing? Do you have ethical concerns but can’t articulate them? Do you need help identifying the nature of your dilemma?**
-If you answered YES to any of these questions, work through this decision tree:
+**Are you unsure what kind of ethical challenge you’re facing? Do you have ethical concerns but can’t articulate them? Do you need help identifying the nature of your dilemma?** If you answered YES to any of these questions, refer to the recommended learning module below:
 
 **Step 1:** Clarity & Understanding
 Does your challenge involve understanding HOW your AI system makes decisions?
