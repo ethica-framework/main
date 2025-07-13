@@ -3,5 +3,5 @@ This module develops your capacity to not only reason through fairness trade-off
 1.	Develop an intuition for “fair” versus “unfair” outcomes.
 2.	Determine whether rule-based logic can be applied to overcome an ethical challenge, or if the situation requires a more complex solution.
 3.	Recognize the different definitions of fairness, how they compare, and how they contrast.
-4.	Apply ethical reasoning to choose between competing fairness approaches
-5.	Engage stakeholders in fairness decision-making to solicit points of view on how the principle can be defined
+4.	Apply ethical reasoning to choose between competing fairness approaches.
+5.	Engage stakeholders in fairness decision-making to solicit points of view on how the principle can be defined.
