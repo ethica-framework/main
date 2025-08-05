@@ -28,6 +28,12 @@ Does your challenge involve fixing an existing fairness problem you’ve identif
 -	Do you need to decide if the problem can be fixed by adding new rules? 
 → If YES, go to `Fairness Balancing module`
 
+**Fairness Balancing Notebooks:**
+- **Stakeholder Perspectives:** Explore how different stakeholders view fairness challenges in AI ([fairness-balancing/1.stakeholder_perspectives.ipynb](fairness-balancing/1.stakeholder_perspectives.ipynb)).
+- **Rule vs Complexity Diagnostic:** Diagnose whether fairness issues can be solved with simple rules or require complex reasoning ([fairness-balancing/2.rule_vs_complexity_diagnostic.ipynb](fairness-balancing/2.rule_vs_complexity_diagnostic.ipynb)).
+- **Ethical Analysis:** Systematically analyze fairness dilemmas using structured frameworks ([fairness-balancing/3.ethical_analysis.ipynb](fairness-balancing/3.ethical_analysis.ipynb)).
+- **Ethical Reflection:** Reflect on the ethical implications and reasoning behind fairness decisions ([fairness-balancing/4.ethical_reflection.ipynb](fairness-balancing/4.ethical_reflection.ipynb)).
+
 **Step 5:** Data & Privacy
 Does your challenge involve HOW you collect, use, store, or protect personal information?
 -	Are you collecting personal or sensitive information?

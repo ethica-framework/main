@@ -1,7 +1,29 @@
-**Fairness Balancing**
+Here’s an updated structure for your README in the fairness-balancing directory, referencing and documenting the available Jupyter Notebook files for easy access:
 
-This practice area develops your capacity to not only reason through fairness trade-offs systematically but also to implement and sustain fair AI systems in practice. Fairness Balancing is the skill of identifying issues that may cause individual or systematic harm and steering decisions towards more fair outcomes. Unlike bias detection (which finds problems), fairness balancing helps you make defensible decisions about resolving those problems and translating those decisions into effective action. Below is a list of skills this module helps users build over time through repeated practice:
-1.	Engage stakeholders in fairness decision-making to solicit points of view on how the principle can be defined.
-2.	Determine whether rule-based logic can be applied to overcome an ethical challenge or if the situation requires a more complex solution.
-3.	Identify different indicators that may be present in ethically complex situations.
-4.	Apply ethical reasoning to choose between competing approaches to fairness.
+---
+
+# Fairness Balancing
+
+This directory provides a suite of Jupyter Notebooks designed to guide users through systematic ethical AI development with a focus on fairness. Each notebook covers a specific aspect of fairness-balancing, supporting stakeholders in diagnosing, analyzing, and reflecting on ethical challenges.
+
+## Available Notebooks
+
+1. **Stakeholder Perspectives**
+   - [1.stakeholder_perspectives.ipynb](https://github.com/ethica-framework/main/blob/882e4957750a5514d041aed12787b4a53b5c563d/fairness-balancing/1.stakeholder_perspectives.ipynb)
+   - Explore the viewpoints and concerns of various stakeholders involved in AI systems. This notebook helps identify key fairness considerations from different stakeholder perspectives.
+
+2. **Rule vs Complexity Diagnostic**
+   - [2.rule_vs_complexity_diagnostic.ipynb](https://github.com/ethica-framework/main/blob/882e4957750a5514d041aed12787b4a53b5c563d/fairness-balancing/2.rule_vs_complexity_diagnostic.ipynb)
+   - Diagnose fairness issues arising from rules and complexity in AI models. This notebook offers tools to evaluate how rule-based and complex systems can impact fairness.
+
+3. **Ethical Analysis**
+   - [3.ethical_analysis.ipynb](https://github.com/ethica-framework/main/blob/882e4957750a5514d041aed12787b4a53b5c563d/fairness-balancing/3.ethical_analysis.ipynb)
+   - Conduct a thorough ethical analysis of AI systems, focusing on fairness dimensions. Includes frameworks and guiding questions for systematic review.
+
+4. **Ethical Reflection**
+   - [4.ethical_reflection.ipynb](https://github.com/ethica-framework/main/blob/882e4957750a5514d041aed12787b4a53b5c563d/fairness-balancing/4.ethical_reflection.ipynb)
+   - Reflect on the ethical implications of AI decisions and interventions. This notebook encourages deeper consideration of outcomes, trade-offs, and lessons learned.
+
+---
+
+Feel free to access each notebook directly via the links for guidance and practical tools on fairness-balancing within ethical AI development.
