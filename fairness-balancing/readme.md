@@ -1,7 +1,3 @@
-Here’s an updated structure for your README in the fairness-balancing directory, referencing and documenting the available Jupyter Notebook files for easy access:
-
----
-
 # Fairness Balancing
 
 This directory provides a suite of Jupyter Notebooks designed to guide users through systematic ethical AI development with a focus on fairness. Each notebook covers a specific aspect of fairness-balancing, supporting stakeholders in diagnosing, analyzing, and reflecting on ethical challenges.
